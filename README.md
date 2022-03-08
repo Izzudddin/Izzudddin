@@ -5,6 +5,8 @@
 - 📫 How to reach me?
      Slide to my DM on https://linkedin.com/in/i-izzuddin or https://instagram.com/zuddin14
 
+Looking forward to catching up with you!
+
 <!---
 Izzudddin/Izzudddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
