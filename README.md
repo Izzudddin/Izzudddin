@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Izzudddin. Nice to e-meet you here!
 - 👀 I’m interested in programming and data science
-- 🌱 I’m currently learning machine learning, TensorFlow to be exact
-- 💞️ I’m looking to collaborate on some projects or researches related to data and mathematics
-- 📫 How to reach me?
-     Slide to my DM on https://linkedin.com/in/i-izzuddin or https://instagram.com/zuddin14
-
-Looking forward to catching up with you!
+- 🌱 I’m currently focusing on deep learning, especially in Computer Vision and Natural Language Processing
+- 💞️ I’m looking for any collaborations related to data and mathematics or working for your company
+- 📫 How to reach me? Slide to my DM on https://linkedin.com/in/i-izzuddin or e-mail me through zudiinahmad@gmail.com
+- 👨‍💻 You may also want to look my activities on Kaggle via https://www.kaggle.com/izzu14
 
 <!---
 Izzudddin/Izzudddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
