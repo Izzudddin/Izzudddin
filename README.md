@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izzudddin. Please call me Izzu, nice to e-meet you here!
 - 👀 I’m interested in programming and data science
-- 🌱 I’m currently focusing on deep learning, especially in Computer Vision and Natural Language Processing
+- 🌱 I’m currently focusing on deep learning, especially in Computer Vision and Natural Language Processing. I sometimes write a topic in https://medium.com/@i.izzuddin, kindly check it out!
 - 💞️ I’m looking for any collaborations related to data science and mathematics or working opportunities in your company
 - 📫 How to reach me? Slide to my DM on https://linkedin.com/in/i-izzuddin or e-mail me through zudiinahmad@gmail.com
 - 👨‍💻 You may also want to look my activities on Kaggle via https://www.kaggle.com/izzu14
